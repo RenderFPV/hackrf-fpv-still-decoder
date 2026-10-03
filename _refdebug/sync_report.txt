@@ -1,0 +1,7 @@
+detected_sync_pulses=31774
+estimated_samples_per_line=636
+sync_threshold=0.9927199482917786
+first_line_index=551
+interval_median=636.000
+interval_p05=626.000
+interval_p95=643.000
